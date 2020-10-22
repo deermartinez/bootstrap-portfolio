@@ -10,9 +10,39 @@ img{
     width:100%;
 }
 
-.md-4{
-    
-
-
-
+body{
+    background-color: rgba(255, 127, 80, 0.301);
 }
+
+.card1,.card3{
+    width: 18rem;
+    padding-top: 200px;
+    border-color: rgba(0, 0, 0, 0.226);
+}
+
+.card2{
+    width: 18rem;
+}
+
+a{
+    color: rgba(0, 0, 0, 0.568);
+}
+
+.jumbotron{
+    height: 350px;
+    text-align: center;
+}
+
+.list-group{
+    background-color: rgba(95, 158, 160, 0.404);
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(134, 111, 111, 0.972);
+    color: rgb(92, 82, 82);
+    text-align: center;
+  }

@@ -1,8 +1,8 @@
-# Final Project Folder
+# Portfilio FOlder
 ## **Developer:** Destynee M
-## **Place:** * Lakewood, Co
+## **Place:** *Lakewood, CO*
 ## **Title:** Dev Portfolio
-## Made with: * Javascript * CSS * Bootstrap 
+## Made with: *HTML *CSS *Bootstrap 
 ## Overview: Make a website (possibly replicating a blog page) summarizing experiences and goals based on my resume.
 
 ## Live Link  (Placeholder)
